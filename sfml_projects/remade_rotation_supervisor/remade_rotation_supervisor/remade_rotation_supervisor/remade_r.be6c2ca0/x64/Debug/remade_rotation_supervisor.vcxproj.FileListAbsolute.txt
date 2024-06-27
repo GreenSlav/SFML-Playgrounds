@@ -1,0 +1,10 @@
+D:\sfml_projects\remade_rotation_supervisor\remade_rotation_supervisor\remade_rotation_supervisor\x64\Debug\sfml-graphics-d-2.dll
+D:\sfml_projects\remade_rotation_supervisor\remade_rotation_supervisor\remade_rotation_supervisor\x64\Debug\sfml-window-d-2.dll
+D:\sfml_projects\remade_rotation_supervisor\remade_rotation_supervisor\remade_rotation_supervisor\x64\Debug\sfml-system-d-2.dll
+D:\sfml_projects\remade_rotation_supervisor\remade_rotation_supervisor\remade_rotation_supervisor\x64\Debug\freetyped.dll
+D:\sfml_projects\remade_rotation_supervisor\remade_rotation_supervisor\remade_rotation_supervisor\x64\Debug\zlibd1.dll
+D:\sfml_projects\remade_rotation_supervisor\remade_rotation_supervisor\remade_rotation_supervisor\x64\Debug\bz2d.dll
+D:\sfml_projects\remade_rotation_supervisor\remade_rotation_supervisor\remade_rotation_supervisor\x64\Debug\libpng16d.dll
+D:\sfml_projects\remade_rotation_supervisor\remade_rotation_supervisor\remade_rotation_supervisor\x64\Debug\brotlidec.dll
+D:\sfml_projects\remade_rotation_supervisor\remade_rotation_supervisor\remade_rotation_supervisor\x64\Debug\brotlicommon.dll
+D:\sfml_projects\remade_rotation_supervisor\remade_rotation_supervisor\remade_rotation_supervisor\remade_r.be6c2ca0\x64\Debug\remade_r.2C9839B6.Up2Date

@@ -1,0 +1,30 @@
+﻿  main.cpp
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(14,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(15,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(18,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(19,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(21,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(22,38): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(22,38): warning C4244:         with
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(22,38): warning C4244:         [
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(22,38): warning C4244:             T=int
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(22,38): warning C4244:         ]
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(22,30): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(22,30): warning C4244:         with
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(22,30): warning C4244:         [
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(22,30): warning C4244:             T=int
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(22,30): warning C4244:         ]
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(47,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(47,49): warning C4244:         with
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(47,49): warning C4244:         [
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(47,49): warning C4244:             T=float
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(47,49): warning C4244:         ]
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(47,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(47,33): warning C4244:         with
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(47,33): warning C4244:         [
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(47,33): warning C4244:             T=float
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(47,33): warning C4244:         ]
+D:\sfml_projects\supervisor\supervisor\supervisor\main.cpp(50,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  supervisor.vcxproj -> D:\sfml_projects\supervisor\supervisor\x64\Debug\supervisor.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sfml_projects\\supervisor\\supervisor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97EEFEF1-F16C-43F3-BB39-2A1E2CF03F7C}|supervisor\\supervisor.vcxproj|D:\\sfml_projects\\supervisor\\supervisor\\supervisor\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97EEFEF1-F16C-43F3-BB39-2A1E2CF03F7C}|supervisor\\supervisor.vcxproj|solutionrelative:supervisor\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EEFEF1-F16C-43F3-BB39-2A1E2CF03F7C}|supervisor\\supervisor.vcxproj|D:\\sfml_projects\\supervisor\\supervisor\\supervisor\\angleUtility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97EEFEF1-F16C-43F3-BB39-2A1E2CF03F7C}|supervisor\\supervisor.vcxproj|solutionrelative:supervisor\\angleUtility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EEFEF1-F16C-43F3-BB39-2A1E2CF03F7C}|supervisor\\supervisor.vcxproj|D:\\sfml_projects\\supervisor\\supervisor\\supervisor\\quarters.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97EEFEF1-F16C-43F3-BB39-2A1E2CF03F7C}|supervisor\\supervisor.vcxproj|solutionrelative:supervisor\\quarters.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "quarters.hpp",
+              "DocumentMoniker": "D:\\sfml_projects\\supervisor\\supervisor\\supervisor\\quarters.hpp",
+              "RelativeDocumentMoniker": "supervisor\\quarters.hpp",
+              "ToolTip": "D:\\sfml_projects\\supervisor\\supervisor\\supervisor\\quarters.hpp",
+              "RelativeToolTip": "supervisor\\quarters.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-26T23:03:22.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "angleUtility.cpp",
+              "DocumentMoniker": "D:\\sfml_projects\\supervisor\\supervisor\\supervisor\\angleUtility.cpp",
+              "RelativeDocumentMoniker": "supervisor\\angleUtility.cpp",
+              "ToolTip": "D:\\sfml_projects\\supervisor\\supervisor\\supervisor\\angleUtility.cpp",
+              "RelativeToolTip": "supervisor\\angleUtility.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T15:38:51.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\sfml_projects\\supervisor\\supervisor\\supervisor\\main.cpp",
+              "RelativeDocumentMoniker": "supervisor\\main.cpp",
+              "ToolTip": "D:\\sfml_projects\\supervisor\\supervisor\\supervisor\\main.cpp",
+              "RelativeToolTip": "supervisor\\main.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T23:31:42.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

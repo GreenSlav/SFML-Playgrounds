@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+D:\sfml_projects\console_test\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(24,1): warning C4715: 'getQuarter': not all control paths return a value
+  ConsoleApplication1.vcxproj -> D:\sfml_projects\console_test\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
